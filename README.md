@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I am a passionate **PCB Designer** and **Embedded 
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [https://www.linkedin.com/in/arockiya-lipson-458b12214](#)
-- **Email**: arolipson@gmail.com
+- **LinkedIn**: [Arockiya Lipson](https://www.linkedin.com/in/arockiya-lipson-458b12214)
+- **Email**: arockiya.lipson@example.com
 
 ## 🚀 Let's Innovate Together!
 
