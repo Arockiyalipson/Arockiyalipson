@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Arockiya Lipson
 
-<!--
-**Arockiyalipson/Arockiyalipson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate **PCB Designer** and **Embedded Systems Programmer** dedicated to turning innovative ideas into reality. My journey in the field of electronics and embedded systems has been fueled by a relentless curiosity and a drive to create efficient, reliable, and cutting-edge solutions.
 
-Here are some ideas to get you started:
+## 🛠️ What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **PCB Design**: Specializing in designing high-performance circuit boards using tools like KiCad and Altium.
+- **Embedded Systems**: Programming microcontrollers and developing firmware with a focus on real-time applications and IoT solutions.
+- **Hardware Debugging**: Expertise in troubleshooting and optimizing hardware performance.
+- **Battery Management Systems & Motor Controllers**: Designing and implementing systems that manage power and control in various applications.
+- **IoT Prototyping**: Turning concepts into working prototypes, particularly with ESP32 and other microcontrollers.
+
+## 🌱 Currently Exploring
+
+- Advanced motor controller designs
+- Enhancements in Battery Management Systems
+- New innovations and solutions in the embedded space
+
+## 🔧 Tools & Technologies
+
+| Tool/Technology      | Logo |
+|----------------------|------|
+| **KiCad**            | ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white) |
+| **Altium**           | ![Altium](https://img.shields.io/badge/Altium-333333?style=for-the-badge&logo=altiumdesigner&logoColor=white) |
+| **C Programming**    | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| **Python**           | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **ESP32**            | ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) |
+| **GCC ARM**          | ![GCC ARM](https://img.shields.io/badge/GCC_ARM-007396?style=for-the-badge&logo=gnu&logoColor=white) |
+| **AVR**              | ![AVR](https://img.shields.io/badge/AVR-00979D?style=for-the-badge&logo=atmel&logoColor=white) |
+| **Overleaf**         | ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white) |
+| **PlatformIO**       | ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white) |
+| **Visual Studio Code** | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+
+## 📫 How to Reach Me
+
+- **LinkedIn**: [Your LinkedIn Profile](#)
+- **Email**: arockiya.lipson@example.com
+
+## 🚀 Let's Innovate Together!
+
+I'm always open to new challenges and opportunities to collaborate on exciting projects. Feel free to explore my repositories, and don’t hesitate to reach out if you’re interested in working together or just want to connect.
