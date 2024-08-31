@@ -41,7 +41,9 @@ Welcome to my GitHub profile! I am a passionate **PCB Designer** and **Embedded 
 ## 📫 How to Reach Me
 
 - **LinkedIn**: [Arockiya Lipson](https://www.linkedin.com/in/arockiya-lipson-458b12214)
+- **Instagram**: [arockiya.lipson](https://www.instagram.com/arockiya.lipson?igsh=MTA1MWF6ZjhyY256MQ==)
 - **Email**: arolipson@gmail.com
+
 
 ## 🚀 Let's Innovate Together!
 
