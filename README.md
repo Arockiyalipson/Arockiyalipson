@@ -18,18 +18,25 @@ Welcome to my GitHub profile! I am a passionate **PCB Designer** and **Embedded 
 
 ## 🔧 Tools & Technologies
 
-| Tool/Technology      | Logo |
-|----------------------|------|
-| **KiCad**            | ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white) |
-| **Altium**           | ![Altium](https://img.shields.io/badge/Altium-333333?style=for-the-badge&logo=altiumdesigner&logoColor=white) |
-| **C Programming**    | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
-| **Python**           | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **ESP32**            | ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) |
-| **GCC ARM**          | ![GCC ARM](https://img.shields.io/badge/GCC_ARM-007396?style=for-the-badge&logo=gnu&logoColor=white) |
-| **AVR**              | ![AVR](https://img.shields.io/badge/AVR-00979D?style=for-the-badge&logo=atmel&logoColor=white) |
-| **Overleaf**         | ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white) |
-| **PlatformIO**       | ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white) |
-| **Visual Studio Code** | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+### PCB Design
+- **KiCad**: ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+- **Altium**: ![Altium](https://img.shields.io/badge/Altium-333333?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+
+### Programming
+- **C Programming**: ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- **Python**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **ESP32**: ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
+### Compilers
+- **GCC ARM**: ![GCC ARM](https://img.shields.io/badge/GCC_ARM-007396?style=for-the-badge&logo=gnu&logoColor=white)
+- **AVR Open Source Tools**: ![AVR](https://img.shields.io/badge/AVR-00979D?style=for-the-badge&logo=atmel&logoColor=white)
+
+### Documentation
+- **Overleaf**: ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+
+### Development Environment
+- **PlatformIO**: ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+- **Visual Studio Code**: ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📫 How to Reach Me
 
