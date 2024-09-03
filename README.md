@@ -19,24 +19,24 @@ Welcome to my GitHub profile! I am a passionate **PCB Designer** and **Embedded 
 ## 🔧 Tools & Technologies
 
 ### PCB Design
-- **KiCad**: ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-- **Altium**: ![Altium](https://img.shields.io/badge/Altium-333333?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+- <img src="https://www.kicad.org/img/kicad_logo_small.png" width=50px> <!--kicad-->
+- <img src="https://cdn-static.altium.com/themes/custom/altium_designer_new/html/dist/images/logo-ad-black.svg" width=50px > <!--Altium-->
 
 ### Programming
-- **C Programming**: ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-- **Python**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **ESP32**: ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width = 40px> <!--C lang-->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width = 50px> <!--python-->
+
 
 ### Compilers
-- **GCC ARM**: ![GCC ARM](https://img.shields.io/badge/GCC_ARM-007396?style=for-the-badge&logo=gnu&logoColor=white)
-- **AVR Open Source Tools**: ![AVR](https://img.shields.io/badge/AVR-00979D?style=for-the-badge&logo=atmel&logoColor=white)
+- **GCC ARM**
+- **AVR-GCC Open Source Tools**
 
 ### Documentation
 - **Overleaf**: ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 ### Development Environment
-- **PlatformIO**: ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
-- **Visual Studio Code**: ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" width = 50px>
+<img src="https://imgs.search.brave.com/1tkVRf1uC7LGdLaLOasZmLnvd22f2M1B7akfXXyVde0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/dnMtY29kZS5zdmc" width = 80px>
 
 ## 📫 How to Reach Me
 
