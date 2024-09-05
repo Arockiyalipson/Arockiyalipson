@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F7DE&width=435&lines=Hey+there+'%F0%9F%91%8B'+I'm+Arockiya+Lipson+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F7DE&vCenter=true&width=435&lines=Hey+there+'%F0%9F%91%8B'+I'm+Arockiya+Lipson+;Let's+dive+into+my+profile+)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I am a passionate **PCB Designer** and **Embedded Systems Programmer** dedicated to turning innovative ideas into reality. My journey in the field of electronics and embedded systems has been fueled by a relentless curiosity and a drive to create efficient, reliable, and cutting-edge solutions.
 
@@ -31,9 +31,6 @@ Welcome to my GitHub profile! I am a passionate **PCB Designer** and **Embedded 
 ### Compilers
 - **GCC ARM**
 - **AVR-GCC Open Source Tools**
-
-### Documentation
-- **Overleaf**: ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 ### Development Environment
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" width = 70px>
