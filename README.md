@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F7DE&vCenter=true&width=435&lines=Hey+there+'%F0%9F%91%8B'+I'm+Arockiya+Lipson+;Let's+dive+into+my+profile+)](https://git.io/typing-svg)
+# 👋 I'm Arockiya lipson
 
 Welcome to my GitHub profile! I am a passionate **PCB Designer** and **Embedded Systems Programmer** dedicated to turning innovative ideas into reality. My journey in the field of electronics and embedded systems has been fueled by a relentless curiosity and a drive to create efficient, reliable, and cutting-edge solutions.
 
