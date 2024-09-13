@@ -19,8 +19,7 @@ Welcome to my GitHub profile! I am a passionate **PCB Designer** and **Embedded 
 ## 🔧 Tools & Technologies
 
 ### PCB Design
- <img src="https://www.kicad.org/img/kicad_logo_small.png" width=100px> <!--kicad-->
-
+ <img src="https://www.kicad.org/img/kicad_logo_small.png" width=100px> <!--kicad--> 
  <img src="https://cdn-static.altium.com/themes/custom/altium_designer_new/html/dist/images/logo-ad-black.svg" width=100px > <!--Altium-->
 
 ### Programming
@@ -37,7 +36,6 @@ Welcome to my GitHub profile! I am a passionate **PCB Designer** and **Embedded 
 
 ### Development Environment
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" width = 70px>
-
 <img src="https://imgs.search.brave.com/1tkVRf1uC7LGdLaLOasZmLnvd22f2M1B7akfXXyVde0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/dnMtY29kZS5zdmc" width = 100px>
 
 ## 📫 How to Reach Me
