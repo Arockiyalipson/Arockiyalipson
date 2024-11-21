@@ -10,12 +10,6 @@ Welcome to my GitHub profile! I am a passionate **PCB Designer** and **Embedded 
 - **Battery Management Systems & Motor Controllers**: Designing and implementing systems that manage power and control in various applications.
 - **IoT Prototyping**: Turning concepts into working prototypes, particularly with ESP32 and other microcontrollers.
 
-## 🌱 Currently Exploring
-
-- Advanced motor controller designs
-- Enhancements in Battery Management Systems
-- New innovations and solutions in the embedded space
-
 ## 🔧 Tools & Technologies
 
 ### PCB Design
